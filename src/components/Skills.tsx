@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Database, Settings, TrendingUp, Lightbulb, MessageSquare } from 'lucide-react';
+import { Database, Settings, TrendingUp, Lightbulb } from 'lucide-react';
 import './Skills.css';
 
 const skillCategories = [
