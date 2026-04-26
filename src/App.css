@@ -1,0 +1,6 @@
+/* App specific styles if needed, mostly handled in index.css and component styles */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
